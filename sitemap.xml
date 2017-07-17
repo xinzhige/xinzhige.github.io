@@ -4,7 +4,11 @@
   <url>
     <loc>http://yoursite.com/2017/07/16/hello-world/</loc>
     
+<<<<<<< HEAD
     <lastmod>2017-07-16T21:30:36.000Z</lastmod>
+=======
+    <lastmod>2017-07-17T02:35:44.000Z</lastmod>
+>>>>>>> ec909f74f6b69c30c6b0fab6fd973d7ea50c932a
     
   </url>
   
