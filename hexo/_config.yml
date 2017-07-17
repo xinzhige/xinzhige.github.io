@@ -7,8 +7,8 @@ title: Zhige Xin
 subtitle:
 description:
 author: Zhige Xin 
-language:
-timezone:
+language: en
+timezone: America/Los_Angeles
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next 
+theme: typing 
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
