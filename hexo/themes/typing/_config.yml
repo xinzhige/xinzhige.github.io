@@ -38,5 +38,5 @@ links:
 
 
 # Info
-archive_footer_content: false 
-post_footer_content: false
+archive_footer_content: Archive
+post_footer_content: Post
