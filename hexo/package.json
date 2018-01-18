@@ -19,6 +19,6 @@
     "hexo-renderer-marked": "^0.2.11",
     "hexo-renderer-org": "^0.2.6",
     "hexo-renderer-stylus": "^0.3.3",
-    "hexo-server": "^0.2.0"
+    "hexo-server": "^0.2.2"
   }
 }
