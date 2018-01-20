@@ -8,7 +8,7 @@ dark: false
 menu:
   Home: /
   Archives: /archives
-  About: /about
+  # About: /about
 rss: /atom.xml
 
 # Content
@@ -26,10 +26,9 @@ fb_app_id:
 
 # Profile
 nickname: Zhige Xin 
-description: I am a researcher, software engineer and open-source enthusiast. Now I focus on social network and machine learning. This is my [resume](/resume_zhige_xin.pdf).
-#Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae [libero pharetra](http://hexo.io) adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam.
+# description: I am a researcher, software engineer and open-source enthusiast. Now I focus on social network and machine learning. This is my [resume](/resume_zhige_xin.pdf).
 links:
-  About: https://zhigexin.com/
+  About: /source/about/index.md
   Blog: /archives
   GitHub: https://github.com/xinzhige
   Linkedin: https://linkedin.com/in/isaiah-zhige-xin/
