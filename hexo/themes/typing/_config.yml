@@ -28,7 +28,7 @@ fb_app_id:
 nickname: Zhige Xin 
 # description: I am a researcher, software engineer and open-source enthusiast. Now I focus on social network and machine learning. This is my [resume](/resume_zhige_xin.pdf).
 links:
-  About: /about/index.md
+  # About: /about/index.md
   Blog: /archives
   GitHub: https://github.com/xinzhige
   Linkedin: https://linkedin.com/in/isaiah-zhige-xin/
