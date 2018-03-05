@@ -1,0 +1,1 @@
+{"md5":"1a92d9b412de659e983029b9feaad54c","content":"\n\n\n\n<div id=\"outline-container-org66134e8\" class=\"outline-2\">\n<h2 id=\"org66134e8\">Objective function</h2>\n<div class=\"outline-text-2\" id=\"text-org66134e8\">\n<p>\nJ(&theta;) = \\frac{1}{2m}&sum;<sub>i=1</sub><sup>m</sup>(&theta;<sup>T</sup>X<sub>i</sub> - Y<sub>i</sub>)<sup>2</sup>\n</p>\n</div>\n</div>\n"}

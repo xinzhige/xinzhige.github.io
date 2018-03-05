@@ -34,7 +34,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -85,6 +85,6 @@ deploy:
 org:
   emacs: '/Applications/Emacs.app/Contents/MacOS/Emacs'
   common: |
-          #+OPTIONS: toc:nil
-          #+BIND: org-html-postamble \"Last Updated %C.</br>Render by <a href='https://github.com/CodeFalling/hexo-renderer-org'>hexo-renderer-org</a> with %c\"
+          #+OPTIONS: toc:nil num:nil
+          #+BIND: org-html-postamble \"\"
   cachedir: './hexo-org-cache/'

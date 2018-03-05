@@ -1,0 +1,8 @@
+#+TITLE: Linear Regression
+#+LAYOUT: post
+#+CATEGORIES: Machine Learning
+
+
+* Objective function
+
+J(\theta) = \frac{1}{2m}\sum_{i=1}^{m}(\theta^{T}X_{i} - Y_{i})^2
